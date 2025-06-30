@@ -1,4 +1,4 @@
-# Wedding Packages Management System
+# Event Packages Management System
 
 This is a **Wedding Packages Management System** built using **OOP concepts** in Java. The system uses a **MySQL database** for data storage and allows users to **customize their wedding, functions, and parties** with various package options.
 
